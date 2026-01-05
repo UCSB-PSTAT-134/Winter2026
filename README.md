@@ -1,1 +1,1 @@
-# PSTAT 234: Statistical Data Science
+# PSTAT 134: Statistical Data Science
